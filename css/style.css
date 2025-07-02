@@ -1,0 +1,11 @@
+.poForm{
+    visibility: hidden;
+}
+
+.lineForm{
+    visibility: hidden;
+}
+
+.clientInputButton{
+    visibility: visible;
+}
